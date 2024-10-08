@@ -13,7 +13,7 @@ INSERT INTO machines VALUES ('a192b174c940', 'OS 2', 'Email Client 1', '2021-06-
 INSERT INTO machines VALUES ('a305b818c708', 'OS 3', 'Email Client 2', '2021-06-01', 1182);
 INSERT INTO machines VALUES ('a317b635c465', 'OS 1', 'Email Client 2', '2021-03-01', 1130);
 INSERT INTO machines VALUES ('a320b137c219', 'OS 2', 'Email Client 2', '2021-03-01', 1000);
-INSERT INTO machines VALUES ('a398b471c573', 'OS 3', 'Email Client 2', '2021-12-01', 1800);
+INSERT INTO machines VALUES ('a398b471c573', 'OS 3', 'Email Client 2', '2021-12-01', 1903);
 INSERT INTO machines VALUES ('a667b270c984', 'OS 1', 'Email Client 1', '2021-03-01', 1078);
 INSERT INTO machines VALUES ('a821b452c176', 'OS 2', 'Email Client 2', '2021-12-01', 1104);
 INSERT INTO machines VALUES ('a998b568c863', 'OS 3', 'Email Client 1', '2021-12-01', 1026);
