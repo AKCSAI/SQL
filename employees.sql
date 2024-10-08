@@ -11,7 +11,7 @@ INSERT INTO employees (username, first_name, last_name, birthdate, country) VALU
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('oeibhguu', 'Danny', 'Adams', '1992-08-04', 'Chad');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('eqolsqhi', 'Tammy', 'Mclean', '1990-06-05', 'Georgia');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('onjsilpq', 'Kayla', 'Buchanan', '1983-06-10', 'Turkey');
-INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('pzrewhol', 'Chelsea', 'Price', '1987-01-17', 'Brazil');
+INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('pzrewhxl', 'Chelsea', 'Price', '1987-01-17', 'Brazil');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('cmwtecgq', 'Rebecca', 'King', '1982-06-24', 'Dominica');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('mdnzmozw', 'Marcus', 'Simpson', '1963-07-14', 'Australia');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('jbkwzhbp', 'Paul', 'Wong', '1974-01-29', 'Rwanda');
@@ -106,4 +106,3 @@ INSERT INTO employees (username, first_name, last_name, birthdate, country) VALU
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('pjavmmze', 'Melanie', 'Buchanan', '1971-12-05', 'Taiwan');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('bnxofven', 'Michael', 'Dean', '1989-11-11', 'Vanuatu');
 INSERT INTO employees (username, first_name, last_name, birthdate, country) VALUES ('qvwigcod', 'Roberto', 'Green', '1960-03-05', 'Suriname');
-
