@@ -1,5 +1,6 @@
 Welcome to the SQL-Cybersecurity repository! 
 This collection of SQL scripts is designed to assist with various cybersecurity tasks, from auditing to monitoring database security. 
+
 The scripts are ready to use as long as the file paths are correctly configured.
 
 How to Use
